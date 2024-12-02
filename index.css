@@ -1,0 +1,10 @@
+#listavotantes{
+    display: flex;
+    background: rgb(141, 188, 131);
+}
+img{
+    border: 2 solid;
+    margin: 40px;
+    height: 300px;
+    width: 300px;    
+}  
